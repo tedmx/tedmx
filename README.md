@@ -1,3 +1,3 @@
 - 👋 Hi from Moscow, Russia! I’m working as frontend JavaScript developer in LiveJournal, which is a part of Rambler Group.
-- 🎨 In addition to coding, I love drawing art (yes, by hand, using old plastic digital tablet), learning history, I stay tuned in politics and I play video games with friends. 
+- 🎨 In addition to coding, I love drawing art (yes, drawing by my own hands, using old digital tablet), learning history, I'm interested in politics and I play video games with friends. 
 - 📫 How to reach me: @fyodor7_7_7 in telegram.
